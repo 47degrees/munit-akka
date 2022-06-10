@@ -1,5 +1,6 @@
 # MUnit Akka
 ![Sonatype Nexus (Releases)](https://img.shields.io/nexus/r/dev.rpeters/munit-akka-typed_2.13?label=latest&server=https%3A%2F%2Foss.sonatype.org)
+
 This is a small, third-party set of fixtures to help get you started using Akka with the MUnit testing library for Scala.
 
 ## License
