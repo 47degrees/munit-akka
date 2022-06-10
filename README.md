@@ -4,7 +4,19 @@
 This is a small, third-party set of fixtures to help get you started using Akka with the MUnit testing library for Scala.
 
 ## License
-This project is licensed under Apache 2.0 and is copyrighted by Ryan Peters (me).
+Copyright 2022 Ryan Peters
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
 
 ## Setup
 This library is published for Scala 2.12, 2.13, and 3.1.x. Add this to your build file if you are using sbt:
