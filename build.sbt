@@ -51,6 +51,7 @@ lazy val root = (project in file("."))
   .settings(
     publish / skip := true
   )
+  .aggregate(munitAkkaTyped, munitAkkaTypedPersistence)
 
 lazy val munitAkkaTyped = (project in file("typed"))
   .settings(
