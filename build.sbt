@@ -14,6 +14,7 @@ val munit = "org.scalameta" %% "munit" % munitV
 
 inThisBuild(
   List(
+    organization := "dev.rpeters",
     developers := List(
       Developer(
         "sloshy",
